@@ -1,3 +1,9 @@
-honda, 2003, 2000
-cerati, 1990, 62003
-mazda, 2023, 40039
+honda,2003,2000
+cerati,1990,62003
+mazda,2023,40039
+chevrolet,2008,234223
+tesla,123342,123
+wqerwe,546546,1234255
+sdf,sdf,sdf
+werewr,werewr,werwe
+sdfsdf,sdfsdf,sdfsdf
